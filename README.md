@@ -1,5 +1,11 @@
-### Hi, I am Swapna Reddy S
+## Introduction
+Hey there! I'm Swapna S 👋, a passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a love for creating innovative web applications. I'm enthusiastic about leveraging technology to solve real-world problems and deliver exceptional user experiences.
 
+## Skills
+- **Frontend**: React.js, HTML, CSS, JavaScript 🌐
+- **Backend**: Node.js, Express.js 💻
+- **Database**: MongoDB, MySQL 📊
+- **Tools & Technologies**: Git, VS Code, npm, RESTful APIs 🛠️
 <!--
 **swapna-reddy-dev/swapna-reddy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
